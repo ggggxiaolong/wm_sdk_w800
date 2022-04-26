@@ -1,0 +1,4 @@
+.tmp_versions/
+tools/W800/.config
+tools/W800/.config.old
+bin/*
